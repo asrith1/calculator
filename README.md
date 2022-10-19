@@ -1,2 +1,2 @@
 CALCULATOR
-using html
+USING HTML
